@@ -1,0 +1,48 @@
+/*Main Page*/
+
+ul.nav-list{
+    padding-right:60px;
+    padding-left: 0%;  
+    margin: 0%;
+    text-align: right;
+}
+ul.nav-list li{
+    display:inline-block;
+    font-weight: 800;
+    margin:0;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: flex-end;
+}
+ul.nav-list li a {
+    text-align: center;
+    font-size:20px;
+    display:block;
+    height:63px;
+    line-height:61px;
+    width:127px;
+    text-decoration: none;
+}
+
+ul.nav-list li.logo {
+    float: left;
+    margin-left: auto;
+}
+
+body{
+    margin: 0%;
+}
+nav{
+    background-color: #f77f00;
+    position:relative;
+}
+
+.footer {
+    padding: 50px;
+    background-color: #f77f00;
+}
+
+/* Front page */
+/* home */
+/* content */
+/* about */
+/* contact */
